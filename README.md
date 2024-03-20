@@ -1,4 +1,4 @@
-# HTML Apps Repository
+# HTML Apps 
 
 This repository contains a collection of web applications built using pure HTML, CSS, and JavaScript. Each application serves as a demonstration of various features and functionalities achievable with these technologies.
 
