@@ -5,7 +5,7 @@ This repository contains a collection of web applications built using pure HTML,
 ## Applications
 
 ### 1. [Dictionary](#)
-### 2. [Joke Generator](#)
+### 2. [Joke Generator](./joke_generator)
 ### 3. [Quote Generator](#)
 
 ## Contributing
